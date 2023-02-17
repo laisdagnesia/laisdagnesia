@@ -14,17 +14,13 @@
 - 
 ## Ferramentas e Tecnologias
 
-            <i class="devicon-graphql-plain-wordmark colored"></i>
-            
-            <i class="devicon-gitlab-plain-wordmark colored"></i>
           
-            <i class="devicon-javascript-plain colored"></i>
-          
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg width="40" height="40"/>
             
             ## Estou aprendendo
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg width="40" height="40"/>
           
           
           
