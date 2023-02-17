@@ -4,7 +4,11 @@
 </div>
 
 <!--
-**laisdagnesia/laisdagnesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**laisdagnesia/laisdagnesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+ -->
 
 - 🔭 I’m currently working on Secretaria de Segurança Pública SSP-AL 
 - 
