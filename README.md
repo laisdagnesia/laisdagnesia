@@ -20,7 +20,9 @@
           
             <i class="devicon-javascript-plain colored"></i>
           
-            <i class="devicon-react-original colored"></i>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
           
           
 - 🌱 I’m currently learning SQL 
