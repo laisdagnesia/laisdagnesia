@@ -11,8 +11,7 @@ Meu nome é Laís Dagnésia e atualmente trabalho como desenvolvedora junior na 
 - Linguagens de programação :computer: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" />
           
-- Reach me 📫
-<br>
+- Reach me 📫<br>
 <a href="https://www.linkedin.com/in/lais-lessa-24d12/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />              
 <!--- - 🌱 I’m currently learning SQL 
 - 👯 I’m looking to collaborate on ...
