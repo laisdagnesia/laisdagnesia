@@ -4,9 +4,11 @@
 </div>
 
 <!--
-**laisdagnesia/laisdagnesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**laisdagnesia/laisdagnesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Secretaria de Segurança Pública SSP-AL 
+- 
+## Ferramentas e Tecnologias
 
             <i class="devicon-graphql-plain-wordmark colored"></i>
             
