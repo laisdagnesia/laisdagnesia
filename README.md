@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Laís Dagnésia e atualmente trabalho como desenvolvedora junior na Secretaria de Segurança Pública SSP-AL. Cursando Sistemas de Informações no CESMAC - Maceió. 
+My name is Laís Dagnésia, I current work as a software developer in the Secretaria de Segurança Pública SSP-AL. 
 <!--
 **laisdagnesia/laisdagnesia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.          
  -->
