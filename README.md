@@ -14,7 +14,7 @@ My name is Laís Dagnésia, I current work as a software developer in the Secret
           
 - Reach me 📫<br>
 
-<a href="https://www.linkedin.com/in/lais-lessa-24d12/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />              
+<a href="https://www.linkedin.com/in/laisdagnesia/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />              
 <!--- - 🌱 I’m currently learning SQL 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
